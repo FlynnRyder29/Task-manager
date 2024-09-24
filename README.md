@@ -99,9 +99,6 @@ This app is developed to keep you on Track!
 
 ### View [Demo](https://rups-task-manager.herokuapp.com)
 
-## Become a contributor
-
-Feel free to open [Pull requests](https://docs.github.com/about-pull-requests)
 
 <p align="center">
 	Thanks for reading!
