@@ -18,10 +18,13 @@
 }
 
 /*common*/
-body{
-    background: var(--very-dark-blue);
-    font-family:'Caveat', cursive;;
+body {
+    background-image: url('https://wallpapercave.com/wp/wp8552497.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    font-family: 'Caveat';
 }
+
 
 .textShadow, .hover-transform-forward, .hover-transform-backward{
     color: var(--white); !important;
@@ -86,11 +89,14 @@ input:focus{
 .rounded{
     border-radius: 20px !important;
 }
-.welcome{
+.welcome {
     border: 1px solid var(--light-blue);
-    background: var(--dark-blue);
-    border-radius:10px;
+    background-image: url('https://wallpapercave.com/wp/wp7160229.jpg'); /* Add the link to your background image */
+    background-size: cover; /* Ensures the image covers the entire element */
+    background-position: center; /* Centers the image inside the element */
+    border-radius: 10px;
 }
+
 
 .blue{
     background: var(--blue);
@@ -132,9 +138,11 @@ input:focus{
 .user{
     width: 70%;
 }
-.ub{
+.ub {
     border-radius: 10px;
-    background: var(--blue);
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/22/240/855/texture-gradient-simple-background-blue-wallpaper-preview.jpg'); /* Add the link to your background image */
+    background-size: cover; /* Makes the image cover the entire element */
+    background-position: center; /* Centers the image inside the element */
     transform: translateY(10px);
 }
 .ub img{
