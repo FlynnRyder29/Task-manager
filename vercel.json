@@ -1,6 +1,6 @@
 {
 	"version": 2,
-	"name": "task-manager-app",
+	"name": "Task-manager",
 	"builds": [
 		{
 			"src": "server/index.js",
