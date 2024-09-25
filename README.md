@@ -97,7 +97,7 @@ This app is developed to keep you on Track!
     npm run dev
     ```
 
-### View [Demo](https://rups-task-manager.herokuapp.com)
+
 
 
 <p align="center">
